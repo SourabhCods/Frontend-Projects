@@ -1,2 +1,2 @@
 # Frontend-Projects
-This is my frontend projects repo
+This is my frontend projects reposetories
